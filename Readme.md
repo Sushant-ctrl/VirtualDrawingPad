@@ -7,12 +7,11 @@ The project involves 2 parts
 2. Take the values and plug it in in the drawing code to use the virtual drawing pad
 
 ### Results
- $$ Thresholding 
- $$
+ 
 ![](https://i.imgur.com/cl2a7j4.gif)
- $$ Drawing 
- $$
+ 
  ![](https://i.imgur.com/o5Po3Ka.gif)
+
 
 
 ### This project required basic understanding of the following concepts
